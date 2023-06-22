@@ -10,10 +10,10 @@ Empower yourself with Loxocat and elevate your pentesting skills to the next lev
 
 Author
 - by git5
-Website
-- https://www.loxosec.rf.gd
-WhatsApp group
-- https://chat.whatsapp.com/Iv7lplJVgM16FeuIzKhFxj
+
+- https://www.loxosec.rf.gd Website
+
+- https://chat.whatsapp.com/Iv7lplJVgM16FeuIzKhFxj WhatsApp group
 
 🐘 Loxocat 🐈 (Loxocat framework): Tu avanzado y estiloso asistente de ciberseguridad, elegante como un elefante, ¡desata tu ira como un gato!. Con un diseño intuitivo y orientado al usuario, Loxocat pone a su alcance la potencia y la versatilidad de las herramientas de intrusión más sofisticadas.
 
@@ -27,7 +27,7 @@ Empoderate con Loxocat y eleva tus habilidades de pentesting al siguiente nivel.
 
 Author
 - by git5
-Website
-- https://www.loxosec.rf.gd
-WhatsApp group
-- https://chat.whatsapp.com/Iv7lplJVgM16FeuIzKhFxj
+- 
+- https://www.loxosec.rf.gd Website
+
+- https://chat.whatsapp.com/Iv7lplJVgM16FeuIzKhFxj WhatsApp group
