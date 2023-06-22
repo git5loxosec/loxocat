@@ -8,7 +8,7 @@ With  Loxocat , cybersecurity has never been so simple, so elegant, and so power
 
 Empower yourself with Loxocat and elevate your pentesting skills to the next level!
 
-Author
+  Author
 - by git5
 
 - https://www.loxosec.rf.gd Website
@@ -25,9 +25,9 @@ Con Loxocat, la ciberseguridad nunca ha sido tan simple, tan elegante y tan pode
 
 Empoderate con Loxocat y eleva tus habilidades de pentesting al siguiente nivel.
 
-Author
+  Author
 - by git5
-- 
+
 - https://www.loxosec.rf.gd Website
 
 - https://chat.whatsapp.com/Iv7lplJVgM16FeuIzKhFxj WhatsApp group
